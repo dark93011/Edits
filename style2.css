@@ -1,0 +1,42 @@
+html{
+    background-color: black;
+}
+h1{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 22px;
+    color: honeydew;
+    border-radius: 6px;
+    padding: 1.5px;
+    text-align: center;
+}
+.head{
+    background-color: #EA1179;
+    border-radius: 8px;
+    width: 600px;
+    position: relative;
+    left: 50px;
+    right: 50%;
+    margin-bottom: 1px;
+    margin-left: 25%;
+}
+#con{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 13px;
+    text-align: center;   
+    background-color: #F266AB; 
+    width: 390px;
+    text-align: center;
+    position: relative;
+    left: 35%;
+    color: beige;
+    margin-bottom: 80px;
+    border-radius: 20px;
+
+}
+video{
+    height: 340px;
+    width: 260px;
+    border-radius: 15px;
+    border-color: white;
+    margin: 14px;
+}
